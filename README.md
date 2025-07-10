@@ -1,7 +1,6 @@
  Full Stack School Management System
 
-![dashboard](./public/dashboard.jpeg)
-live demo:realschoolmanagementsystem.netlify.app
+Dashboard
 link of livedemo :https://realschoolmanagementsystem.netlify.app
 ## 🚀 Tech Stack
 
