@@ -2,7 +2,7 @@
 
 ![dashboard](./public/dashboard.jpeg)
 live demo:realschoolmanagementsystem.netlify.app
-
+link of livedemo :https://realschoolmanagementsystem.netlify.app
 ## 🚀 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -16,12 +16,6 @@ live demo:realschoolmanagementsystem.netlify.app
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-4A90E2?style=for-the-badge&logo=coolify&logoColor=white)
 
-## 📖 Project Overview
-
-EduSphere is a comprehensive School Management System built with Next.js and Tailwind CSS. Inspired by Lama Dev's tutorial, this full-stack application provides a robust solution for managing school operations across different user roles.
-
-### 🎥 Tutorial Credits
-- **Original Tutorial**: [Lama Dev YouTube Tutorial](https://www.youtube.com/watch?v=6sfiAyKy8Jo)
 
 ## 🌟 Features
 
@@ -51,9 +45,7 @@ Frontend: React.js, Material UI, Redux
 Backend: Node.js, Express.js
 Database: MongoDB
 
-Installation
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
-Open 2 terminals in separate windows/tabs.
+
 
 Terminal 1: Setting Up Backend
 
@@ -1751,4 +1743,7 @@ Contributions are welcome! Please read the contributing guidelines before gettin
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+images :<img width="1903" height="912" alt="Screenshot 2025-07-10 205732" src="https://github.com/user-attachments/assets/d40d1db3-f066-42e3-8ffd-835226ffd845" />
+
+
 link of livedemo :https://realschoolmanagementsystem.netlify.app/
