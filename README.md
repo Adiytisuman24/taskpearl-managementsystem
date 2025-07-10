@@ -17,6 +17,14 @@ link of livedemo :https://realschoolmanagementsystem.netlify.app
 ![Coolify](https://img.shields.io/badge/Coolify-4A90E2?style=for-the-badge&logo=coolify&logoColor=white)
 
 
+images:
+<img width="1903" height="912" alt="Screenshot 2025-07-10 205732" src="https://github.com/user-attachments/assets/fbcd96e3-6c74-4872-9d8d-8118a5442595" />
+
+<img width="1892" height="878" alt="Screenshot 2025-07-10 205905" src="https://github.com/user-attachments/assets/dcccb2e5-65ed-405d-991e-9ff8e8d635d5" />
+
+<img width="1905" height="878" alt="Screenshot 2025-07-10 205745" src="https://github.com/user-attachments/assets/2a09b28f-d57c-488a-8716-bc70f3d29a2d" />
+
+
 ## 🌟 Features
 
 - Multi-role dashboard (Admin, Teacher, Student, Parent)
@@ -1744,6 +1752,9 @@ Contributions are welcome! Please read the contributing guidelines before gettin
 
 This project is open-source and available under the MIT License.
 images :<img width="1903" height="912" alt="Screenshot 2025-07-10 205732" src="https://github.com/user-attachments/assets/d40d1db3-f066-42e3-8ffd-835226ffd845" />
+<img width="1905" height="878" alt="Screenshot 2025-07-10 205745" src="https://github.com/user-attachments/assets/5213307a-2df6-4b39-bf00-1a6d9e7d1c70" />
+<img width="1905" height="878" alt="Screenshot 2025-07-10 205745" src="https://github.com/user-attachments/assets/387e8d76-cb7c-4448-aeb6-22dce0bfdf75" />
+<img width="1892" height="878" alt="Screenshot 2025-07-10 205905" src="https://github.com/user-attachments/assets/b8e09f7e-e49c-4ae2-8f53-5f43dc7e1642" />
 
 
 link of livedemo :https://realschoolmanagementsystem.netlify.app/
